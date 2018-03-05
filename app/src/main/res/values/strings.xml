@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"S.O.S. "</string>
+    <string name="get_location">Get Location</string>
+    <string name="show_location">show location</string>
+</resources>
